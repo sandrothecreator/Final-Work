@@ -1,0 +1,170 @@
+@media (max-width:320px){
+    .homeimage {
+        display: none;
+    }
+    .text1 {
+        font-size: 20px;
+        width: 120px;
+    }
+    .text2 {
+        width: 150px;
+        font-size: 20px;
+    }
+    .ordernow {
+        width: 150px;
+        height: 50px;
+        margin-left: 70px;
+        top: 550px;
+    }
+    .hometext-div {
+        width: 200px;
+    }
+}
+@media (min-width:321px) and (max-width:450px){
+    .homeimage{
+        display: none;
+    }
+    .text1 {
+        font-size: 35px;
+        width: 350px;
+    }
+    .text2 {
+        top: 390px;
+        width: 300px;
+    }
+    .ordernow {
+        width: 150px;
+        height: 50px;
+        margin-left: 70px;
+        top: 550px;
+    }
+    .hometext-div {
+        width: 300px;
+    }
+}
+@media (min-width:451px) and (max-width:720px){
+    .homeimage {
+        display: none;
+    }
+    .hometext-div {
+        width: 400px;
+    }
+    .text1{
+        font-size: 35px;
+        width: 300px;
+    }
+    .text2{
+        width: 350px;
+    }
+}
+@media (min-width:721px) and (max-width:1024px){
+    .homeimage{
+        display: none;
+    }
+}
+@media (min-width:1024px) and (max-width:1350px){
+    .homeimage{
+        display: none;
+    }
+    .text2{
+        width: 920px;
+    }
+}
+@media (min-width:320px) and (max-width:480px){
+    .ourfood-image {
+        display: none;
+    }
+    .ourfood-order {
+        left: 1px;
+        top: 120px;
+    }
+    .foods{
+        left: 30px;
+    }
+    .ourfood-txt{
+        left: 30px;
+    }
+    .choose{
+        width: 200px;
+    }
+    .ourfood-info{
+        width: 300px;
+    }
+}
+@media (max-width:320px){
+    .ourfood-image {
+        display: none;
+    }
+}
+@media (min-width:481px) and (max-width:720px){
+    .ourfood-image {
+        display: none;
+    }
+    .ourfood-order {
+        left: 5px;
+        top: 120px;
+    }
+    .foods{
+        left: 70px;
+    }
+    .ourfood-txt{
+        left: 70px;
+    }
+    .choose{
+        width: 200px;
+    }
+    .ourfood-info{
+        width: 300px;
+    }
+}
+@media (min-width:721px) and (max-width:1024px){
+    .ourfood-image {
+        display: none;
+    }
+    .ourfood-order {
+        left: 60px;
+        top: 120px;
+    }
+    .foods{
+        left: 150px;
+    }
+    .ourfood-txt{
+        left: 150px;
+    }
+    .choose{
+        width: 200px;
+    }
+    .ourfood-info{
+        width: 300px;
+    }
+}
+@media (min-width:1025px) and (max-width:1300px){
+    .ourfood-image {
+        width: 500px;
+        height: 350px;
+    }
+    .ourfood-order {
+        left: 500px;
+        top: 140px;
+    }
+    .foods{
+        left: 570px;
+    }
+    .ourfood-txt{
+        left: 570px;
+    }
+    .choose{
+        width: 200px;
+    }
+    .ourfood-info{
+        width: 300px;
+    }
+}
+@media (max-width:1024px){
+    .navigation {
+        display: none;
+    }
+    .burger-bar{
+        display: block;
+    }
+}
